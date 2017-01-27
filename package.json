@@ -1,6 +1,6 @@
 {
   "name": "regexlib",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "regex library for commons validations",
   "main": "index",
   "typings": "index.d.ts",
